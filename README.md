@@ -1,2 +1,3 @@
-# easy-pv
-A seven-month project at Midsummer Energy
+# Easy PV 3D Studio
+Easy PV's Brand new 3D solar design tool allows you to accurately model a customers building (or buildings) from satellite imagery, adding in obstructions both on the roof and in its proximity. You are then able to add panels to your chosen roof sections before visualising this in a simulated environment where you can see the path of the sun - and any shading that will be present on the array(s) throughout different times of the day and months throughout the year. This information will help customers envision a proposed solar system more clearly, but also give designers the power to better determine string groups and effective optimiser placement across arrays. The shading data from the model is then used to automaticaly calculate a Shading Factor during the MCS shading analysis section of ou Performance task - resulting in more accurate performance estimates and reducing the amount of time it takes to complete a quote through Easy PV. 
+[![Easy PV 3D Studio](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=X6o9QiyMEvA)
